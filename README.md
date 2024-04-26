@@ -12,8 +12,7 @@
 
           
 ## No momento estou melhorando meus conhecimentos em:
-Python
-Java
+Python e Java.
 
 
 ## Contatos:
