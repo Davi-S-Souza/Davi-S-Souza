@@ -1,7 +1,8 @@
 # Opa, sou o Davi!
 ## Este é o meu perfil 😄 
 
-##Ferramentas e tecnologias
+## Ferramentas e tecnologias
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" />
