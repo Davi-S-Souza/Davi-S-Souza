@@ -1,25 +1,45 @@
-# Opa, sou o Davi!
-## Este é o meu perfil 😄 
+# 👋 Hi, I'm Davi Souza
 
-## Ferramentas e tecnologias
+🎯 **Quality Assurance Analyst** at [Softplan](https://www.softplan.com.br)  
+🎓 Currently studying **Systems Analysis and Development (ADS)** at IFSC  
+🌍 Based in Florianópolis, Brazil | Open to international and remote opportunities  
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />
+---
 
+## 🧪 About Me
 
-          
-## No momento estou melhorando meus conhecimentos em:
-Python e Java.
+I'm passionate about **software quality**, automation, and building efficient testing strategies that support scalable development. My work focuses on delivering robust and maintainable tests for both web and mobile applications.
 
+I also enjoy experimenting with **frontend and backend development**, which helps me better understand the systems I test and collaborate more effectively with developers.
 
-## Contatos:
+---
 
-<div>
-<a href="https://instagram.com/davi.soares.s" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:daviuim@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/davi-soares-3130a82b8" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+## 🛠️ Tech Stack
 
+**Testing & QA:**  
+- Robot Framework | Selenium | Appium | Pytest | Postman  
+- Manual Testing | Test Cases | Test Plans | Jira |   
+
+**Development:**  
+- **Frontend:** HTML5, CSS3, JavaScript, React  
+- **Backend:** Python, Java  
+- **Version Control & CI/CD:** Git, GitHub, GitLab CI  
+
+**Tools & Practices:**  
+- Agile (Scrum & Kanban) | TDD | BDD | API Testing | GitFlow
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced test automation design patterns  
+- Performance and security testing (OWASP-related tools)  
+- Software Enginering  
+
+---
+
+## 📫 How to Reach Me
+
+- 📧 Email: daviuim@hotmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/davi-soares-3130a82b8/)  
+- 🧠 Always open to collaboration, mentorship, and global QA communities!
